@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5a047f6-1b9a-4e54-b818-c0ef213789c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DebtParadoxResearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/inspect_and_clean_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configs/train_multitask.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etl/build_full_history.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etl/features_structured.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etl/fetch_cbo_estimates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etl/fetch_congress_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etl/join_bills_cbo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etl/parse_bill_status.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/datasets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/model_multitask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/train_multitask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sync_project.ps1" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3AfylbYtZzwpCxihVXwIZDDWnVM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.__init__.executor": "Run",
+    "Python.build_full_history.executor": "Run",
+    "Python.inspect_and_clean_dataset.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/lucad/Desktop/DebtParadoxResearch"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f78a9d071105-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26574.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5a047f6-1b9a-4e54-b818-c0ef213789c1" name="Changes" comment="" />
+      <created>1772998071271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772998071271</updated>
+    </task>
+    <servers />
+  </component>
+</project>

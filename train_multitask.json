@@ -1,0 +1,28 @@
+﻿{
+"model_name": "allenai/longformer-base-4096",
+"max_length": 2048,
+"max_chunks": 4,
+"batch_size": 1,
+"eval_batch_size": 1,
+"learning_rate": 3e-5,
+"weight_decay": 0.01,
+"num_epochs": 2,
+"warmup_ratio": 0.1,
+"alpha": 1.0,
+"beta": 0.5,
+"gamma": 1.0,
+"categorical_cols": [
+"sponsor_party",
+"sponsor_state",
+"primary_committee_code",
+"primary_committee_chamber",
+"policy_area_str"
+],
+"numeric_cols": [
+"cosponsor_count_total",
+"cosponsor_count_D",
+"cosponsor_count_R"
+],
+"output_dir": "data/outputs/models/mt_def_pass_v1",
+"dataset_path": "data/processed/train_ready_legislation.parquet"
+}
